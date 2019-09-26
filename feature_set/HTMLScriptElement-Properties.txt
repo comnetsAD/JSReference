@@ -1,0 +1,10 @@
+type|RW
+src|RW
+event|RW
+charset|RW
+async|RW
+defer|RW
+crossOrigin|RW
+text|RW
+noModule|RW
+referrerPolicy|RW

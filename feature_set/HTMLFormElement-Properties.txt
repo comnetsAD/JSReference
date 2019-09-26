@@ -1,0 +1,12 @@
+elements|R
+length|R
+name|RW
+method|RW
+target|RW
+action|RW
+encoding|RW
+enctype|RW
+acceptCharset|RW
+autocomplete|RW
+noValidate|RW
+

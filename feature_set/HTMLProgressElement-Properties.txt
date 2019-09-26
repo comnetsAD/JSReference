@@ -1,0 +1,4 @@
+max|RW
+position|R
+value|RW
+labels|R

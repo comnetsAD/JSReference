@@ -1,0 +1,8 @@
+blur|E
+focus|E
+select|E
+setRangeText|W
+setSelectionRange|E
+checkValidity|R
+reportValidity|E
+setCustomValidity|W

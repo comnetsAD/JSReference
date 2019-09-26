@@ -1,0 +1,15 @@
+abbr|RW
+cellIndex|R
+colSpan|RW
+headers|R
+rowSpan|RW
+scope|RW
+align|RW
+axis|RW
+bgColor|RW
+ch|RW
+chOff|RW
+height|RW
+noWrap|RW
+vAlign|RW
+width|RW

@@ -1,0 +1,5 @@
+align|RW
+rows|R
+ch|RW
+chOff|RW
+vAlign|RW

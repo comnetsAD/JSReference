@@ -1,0 +1,11 @@
+autofocus|RW
+challenge|RW
+disabled|RW
+form|R
+keytype|RW
+labels|R
+name|RW
+type|R
+validationMessage|R
+validity|R
+willValidate|RW

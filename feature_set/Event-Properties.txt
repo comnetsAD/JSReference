@@ -1,0 +1,15 @@
+bubbles|R
+cancelable|R
+cancelBubble|RW
+composed|R
+currentTarget|R
+defaultPrevented|R
+eventPhase|R
+explicitOriginalTarget|R
+isTrusted|R
+originalTarget|R
+returnValue|RW
+srcElement|R
+target|R
+timeStamp|R
+type|R

@@ -1,0 +1,4 @@
+append
+prepend
+querySelector
+querySelectorAll

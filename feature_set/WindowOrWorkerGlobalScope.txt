@@ -1,0 +1,9 @@
+atob
+btoa
+clearInterval
+clearTimeout
+createImageBitmap
+fetch
+queueMicrotask
+setInterval
+setTimeout

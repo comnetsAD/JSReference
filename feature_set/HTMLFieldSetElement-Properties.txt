@@ -1,0 +1,8 @@
+disabled|RW
+elements|R
+form|R
+name|RW
+type|R
+validationMessage|RW
+validity|RW
+willValidate|RW

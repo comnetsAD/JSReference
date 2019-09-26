@@ -1,0 +1,5 @@
+back|E
+forward|E
+go|E
+pushState|W
+replaceState|W

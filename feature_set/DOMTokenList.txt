@@ -1,0 +1,12 @@
+add
+contains
+entries
+forEach
+item
+keys
+remove
+replace
+supports
+toggle
+value
+values

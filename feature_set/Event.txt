@@ -1,0 +1,7 @@
+composedPath
+createEvent
+initEvent
+msConvertURL
+preventDefault
+stopImmediatePropagation
+stopPropagation

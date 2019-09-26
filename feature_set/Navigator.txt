@@ -1,0 +1,11 @@
+canShare|R
+getVRDisplays|R
+getUserMedia|R
+registerContentHandler|W
+registerProtocolHandler|W
+requestMediaKeySystemAccess|R
+sendBeacon|E
+share|E
+vibrate|E
+mozIsLocallyAvailable|E
+mozPay|E

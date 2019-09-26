@@ -1,0 +1,4 @@
+caches|R
+indexedDB|R
+isSecureContext|R
+origin|R

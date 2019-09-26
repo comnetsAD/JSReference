@@ -1,0 +1,2 @@
+type|RW
+value|RW

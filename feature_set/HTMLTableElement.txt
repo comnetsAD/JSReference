@@ -1,0 +1,9 @@
+createTHead|W
+deleteTHead|W
+createTFoot|W
+deleteTFoot|W
+createCaption|W
+deleteCaption|W
+insertRow|W
+deleteRow|W
+stopSorting|W

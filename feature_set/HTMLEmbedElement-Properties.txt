@@ -1,0 +1,6 @@
+align|RW
+height|RW
+name|RW
+src|RW
+type|RW
+width|RW

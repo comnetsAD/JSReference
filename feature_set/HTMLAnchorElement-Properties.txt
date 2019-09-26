@@ -1,0 +1,15 @@
+download|RW
+hreflang|RW
+media|RW
+referrerPolicy|RW
+rel|RW
+relList|R
+target|RW
+text|RW
+type|RW
+charset|RW
+coords|RW
+name|RW
+rev|RW
+shape|RW
+

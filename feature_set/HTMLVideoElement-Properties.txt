@@ -1,0 +1,15 @@
+height|RW
+poster|RW
+videoHeight|R
+videoWidth|R
+width|RW
+mozParsedFrames|R
+mozDecodedFrames|R
+mozPresentedFrames|R
+mozPaintedFrames|R
+mozFrameDelay|R
+mozHasAudio|R
+msHorizontalMirror|RW
+msIsLayoutOptimalForPlayback|R
+msIsStereo3D|R
+msZoom|RW

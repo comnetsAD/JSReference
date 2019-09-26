@@ -1,0 +1,12 @@
+hash|RW
+host|RW
+hostname|RW
+href|RW
+origin|R
+password|RW
+pathname|RW
+port|RW
+protocol|RW
+search|RW
+searchParams|R
+username|RW

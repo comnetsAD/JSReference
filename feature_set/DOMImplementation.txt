@@ -1,0 +1,4 @@
+createDocument|W
+createDocumentType|W
+createHTMLDocument|W
+hasFeature|R

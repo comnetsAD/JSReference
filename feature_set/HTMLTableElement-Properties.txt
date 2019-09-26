@@ -1,0 +1,15 @@
+caption|RW
+tHead|RW
+tFoot|RW
+rows|R
+tBodies|R
+sortable|RW
+align|RW
+bgColor|RW
+border|RW
+cellPadding|RW
+cellSpacing|RW
+frame|RW
+rules|RW
+summary|RW
+width|RW

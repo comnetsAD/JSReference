@@ -1,0 +1,15 @@
+as|RW
+crossOrigin|RW
+disabled|RW
+href|RW
+hreflang|RW
+media|RW
+referrerPolicy|RW
+rel|RW
+relList|R
+sizes|R
+sheet|R
+type|RW
+charset|RW
+rev|RW
+target|RW

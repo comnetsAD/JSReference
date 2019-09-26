@@ -1,0 +1,6 @@
+keySystem|RW
+media|RW
+sizes|RW
+src|RW
+srcset|RW
+type|RW

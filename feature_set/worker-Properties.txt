@@ -1,0 +1,3 @@
+onerror|E
+onmessage|E
+onmessageerror|E

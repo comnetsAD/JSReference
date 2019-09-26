@@ -1,0 +1,4 @@
+content|RW
+httpEquiv|RW
+name|RW
+scheme|RW

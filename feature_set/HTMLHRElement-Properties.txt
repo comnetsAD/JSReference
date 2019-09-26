@@ -1,0 +1,5 @@
+align|RW
+color|RW
+noshade|RW
+size|RW
+width|RW

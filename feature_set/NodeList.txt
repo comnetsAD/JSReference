@@ -1,0 +1,5 @@
+entries
+forEach
+item
+keys
+values

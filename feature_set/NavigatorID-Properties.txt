@@ -1,0 +1,6 @@
+appCodeName|R
+appName|R
+appVersion|R
+platform|R
+product|R
+userAgent|R

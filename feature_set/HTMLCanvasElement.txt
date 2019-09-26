@@ -1,0 +1,6 @@
+captureStream|R
+getContext|R
+toDataURL|R
+toBlob|R
+transferControlToOffscreen|E
+mozGetAsFile|R

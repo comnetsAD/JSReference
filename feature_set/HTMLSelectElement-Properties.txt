@@ -1,0 +1,16 @@
+autofocus|RW
+disabled|RW
+form|R
+labels|R
+length|RW
+multiple|RW
+name|RW
+options|R
+required|RW
+selectedIndex|RW
+size|RW
+type|R
+validationMessage|R
+validity|R
+value|RW
+willValidate|R

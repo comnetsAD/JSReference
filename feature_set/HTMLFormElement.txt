@@ -1,0 +1,5 @@
+submit|E
+reset|E
+checkValidity|E
+reportValidity|E
+requestAutocomplete|E

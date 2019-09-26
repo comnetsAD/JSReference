@@ -1,0 +1,4 @@
+reversed|RW
+start|RW
+type|RW
+compact|RW

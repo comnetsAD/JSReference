@@ -1,0 +1,7 @@
+firstChild|R
+lastChild|R
+nextNode|R
+nextSibling|R
+parentNode|R
+previousNode|R
+previousSibling|R

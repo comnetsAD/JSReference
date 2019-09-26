@@ -1,0 +1,5 @@
+hasDataAttr|R
+removeDataAttr|W
+removeProp|W
+getDataAttr|R
+setDataAttr|W

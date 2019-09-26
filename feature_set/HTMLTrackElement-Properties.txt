@@ -1,0 +1,7 @@
+kind|RW
+src|RW
+srclang|RW
+label|RW
+default|RW
+readyState|R
+track|R

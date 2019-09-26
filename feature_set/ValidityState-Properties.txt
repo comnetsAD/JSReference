@@ -1,0 +1,11 @@
+badInput|R
+customError|R
+patternMismatch|R
+rangeOverflow|R
+rangeUnderflow|R
+stepMismatch|R
+tooLong|R
+tooShort|R
+typeMismatch|R
+valid|R
+valueMissing|R

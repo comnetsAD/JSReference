@@ -1,0 +1,6 @@
+align|RW
+ch|RW
+chOff|RW
+span|RW
+vAlign|RW
+width|RW

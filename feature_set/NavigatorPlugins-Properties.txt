@@ -1,0 +1,2 @@
+mimeTypes|R
+plugins|R

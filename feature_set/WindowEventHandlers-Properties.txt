@@ -1,0 +1,15 @@
+onafterprint|E
+onbeforeprint|E
+onbeforeunload|E
+onhashchange|E
+onlanguagechange|E
+onmessage|E
+onmessageerror|E
+onoffline|E
+ononline|E
+onpagehide|E
+onpageshow|E
+onpopstate|E
+onstorage|E
+onunhandledrejection|E
+onunload|E

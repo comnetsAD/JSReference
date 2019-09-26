@@ -1,0 +1,4 @@
+height|RW
+width|RW
+mozOpaque|RW
+mozPrintCallback|E

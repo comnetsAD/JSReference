@@ -1,0 +1,6 @@
+collapsed|R
+commonAncestorContainer|R
+endContainer|R
+endOffset|R
+startContainer|R
+startOffset|R

@@ -1,0 +1,8 @@
+align|RW
+bgColor|RW
+cells|R
+ch|RW
+chOff|RW
+rowIndex|R
+sectionRowIndex|R
+vAlign|RW

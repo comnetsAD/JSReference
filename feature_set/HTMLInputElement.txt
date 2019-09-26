@@ -1,0 +1,14 @@
+blur|E
+click|E
+focus|E
+select|E
+setSelectionRange|E
+setRangeText|W
+setCustomValidity|W
+checkValidity|R
+reportValidity|E
+stepDown|W
+stepUp|W
+mozSetFileArray|W
+mozGetFileNameArray|R
+mozSetFileNameArray|W

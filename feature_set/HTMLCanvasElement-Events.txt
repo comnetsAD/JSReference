@@ -1,0 +1,3 @@
+webglcontextcreationerror|E
+webglcontextlost|E
+webglcontextrestored|E

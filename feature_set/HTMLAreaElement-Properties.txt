@@ -1,0 +1,12 @@
+alt|RW
+coords|RW
+download|RW
+hreflang|RW
+media|RW
+noHref|RW
+referrerPolicy|RW
+rel|RW
+relList|R
+shape|RW
+target|RW
+type|RW

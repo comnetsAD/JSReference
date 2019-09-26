@@ -1,0 +1,7 @@
+high|RW
+low|RW
+max|RW
+min|RW
+optimum|RW
+value|RW
+labels|R

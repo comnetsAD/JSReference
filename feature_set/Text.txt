@@ -1,0 +1,2 @@
+replaceWholeText|W
+splitText|W

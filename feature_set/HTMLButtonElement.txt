@@ -1,0 +1,3 @@
+checkValidity|R
+reportValidity|R
+setCustomValidity|W

@@ -1,0 +1,10 @@
+defaultValue|RW
+form|R
+htmlFor|R
+labels|R
+name|RW
+type|R
+validationMessage|R
+validity|R
+value|RW
+willValidate|R

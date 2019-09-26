@@ -1,0 +1,15 @@
+addTextTrack|W
+captureStream|R
+canPlayType|W
+fastSeek|E
+load|E
+mozCaptureStream|?
+mozCaptureStreamUntilEnded|?
+mozGetMetadata|R
+pause|E
+play|E
+seekToNextFrame|E
+setMediaKeys|W
+setSinkId|W
+mozLoadFrom|E
+

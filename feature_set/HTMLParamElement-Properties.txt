@@ -1,0 +1,4 @@
+name|RW
+value|RW
+type|RW
+valueType|RW
