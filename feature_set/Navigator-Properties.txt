@@ -30,4 +30,3 @@ storageQuota|R
 vendor|R
 vendorSub|R
 webkitPointer|R
-

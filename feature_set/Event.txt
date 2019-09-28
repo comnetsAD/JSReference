@@ -1,7 +1,10 @@
-composedPath
-createEvent
-initEvent
-msConvertURL
-preventDefault
-stopImmediatePropagation
-stopPropagation
+composedPath|R
+createEvent|S
+initEvent|S
+msConvertURL|S
+preventDefault|S
+stopImmediatePropagation|S
+stopPropagation|S
+getPreventDefault|R
+preventBubble|S
+preventCapture|S

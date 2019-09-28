@@ -12,4 +12,3 @@ seekToNextFrame|E
 setMediaKeys|W
 setSinkId|W
 mozLoadFrom|E
-

@@ -1,5 +1,5 @@
-entries
-forEach
-item
-keys
-values
+entries|RW
+forEach|RW
+item|RW
+keys|RW
+values|RW

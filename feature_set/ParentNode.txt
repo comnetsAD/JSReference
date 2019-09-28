@@ -1,4 +1,4 @@
-append
-prepend
-querySelector
-querySelectorAll
+append|W
+prepend|W
+querySelector|R
+querySelectorAll|R

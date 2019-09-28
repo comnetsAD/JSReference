@@ -1,2 +1,3 @@
-observe
-takeRecords
+disconnect|S
+observe|S
+takeRecords|R

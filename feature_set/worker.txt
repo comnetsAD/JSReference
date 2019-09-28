@@ -1,2 +1,2 @@
-portMessage
-terminate
+postMessage|E
+terminate|E

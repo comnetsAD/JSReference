@@ -1,4 +1,4 @@
-createObjectURL
-revokeObjectURL
-toJSON
-toString
+createObjectURL|W
+revokeObjectURL|W
+toJSON|R
+toString|R
