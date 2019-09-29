@@ -1,5 +1,5 @@
-applicationCache
-caches
+applicationCache|R
+caches|R
 closed|R
 console|R
 content|R
