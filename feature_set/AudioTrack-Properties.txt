@@ -1,0 +1,6 @@
+enabled|RW
+id|R
+kind|R
+label|R
+language|R
+sourceBuffer|R

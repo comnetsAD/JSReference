@@ -1,0 +1,2 @@
+assignedNodes|R
+assignedElements|R

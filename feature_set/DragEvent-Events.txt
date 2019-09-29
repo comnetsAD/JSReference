@@ -1,0 +1,8 @@
+drag|E
+dragend|E
+dragenter|E
+dragexit|E
+dragleave|E
+dragover|E
+dragstart|E
+drop|E

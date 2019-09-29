@@ -1,0 +1,5 @@
+track|R
+id|RW
+startTime|RW
+endTime|RW
+pauseOnExit|RW

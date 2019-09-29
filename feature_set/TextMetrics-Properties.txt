@@ -1,0 +1,12 @@
+width|R
+actualBoundingBoxLeft|R
+actualBoundingBoxRight|R
+fontBoundingBoxAscent|R
+fontBoundingBoxDescent|R
+actualBoundingBoxAscent|R
+actualBoundingBoxDescent|R
+emHeightAscent|R
+emHeightDescent|R
+hangingBaseline|R
+alphabeticBaseline|R
+ideographicBaseline|R

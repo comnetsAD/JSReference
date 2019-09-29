@@ -1,0 +1,3 @@
+getContext|R
+convertToBlob|W
+transferToImageBitmap|W

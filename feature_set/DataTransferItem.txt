@@ -1,0 +1,3 @@
+getAsFile|R
+getAsString|R
+webkitGetAsEntr|R

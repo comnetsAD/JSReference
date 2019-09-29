@@ -1,0 +1,10 @@
+addPath|W
+closePath|W
+moveTo|W
+lineTo|W
+bezierCurveTo|W
+quadraticCurveTo|W
+arc|W
+arcTo|W
+ellipse|W
+rect|W

@@ -1,0 +1,9 @@
+dropEffect|RW
+effectAllowed|RW
+files|RW
+items|R
+types|R
+mozCursor|RW
+mozItemCount|R
+mozSourceNode|R
+mozUserCancelled|R

@@ -1,0 +1,11 @@
+behavior|RW
+bgColor|RW
+direction|RW
+height|RW
+hspace|RW
+loop|RW
+scrollAmount|RW
+scrollDelay|RW
+trueSpeed|RW
+vspace|RW
+width|RW

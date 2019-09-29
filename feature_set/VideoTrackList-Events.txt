@@ -1,0 +1,6 @@
+onaddtrack|E
+onchange|E
+onremovetrack|E
+addtrack|E
+change|E
+removetrack|E

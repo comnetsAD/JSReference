@@ -1,0 +1,2 @@
+transferFromImageBitmap|E
+transferImageBitmap|E

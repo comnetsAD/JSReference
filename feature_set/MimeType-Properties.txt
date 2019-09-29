@@ -1,0 +1,4 @@
+type|R
+description|R
+suffixes|R
+enabledPlugin|R

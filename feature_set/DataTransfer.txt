@@ -1,0 +1,9 @@
+clearData|W
+getData|R
+setData|W
+setDragImage|W
+addElement|W
+mozClearDataAt|W
+mozGetDataAt|W
+mozSetDataAt|W
+mozTypesAt|R
