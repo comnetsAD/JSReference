@@ -487,6 +487,7 @@ getPreventDefault|E
 preventBubble|E
 preventCapture|E
 addEventListener|E
+attachEvent|E
 dispatchEvent|E
 removeEventListener|E
 onanimationstart|E
